@@ -1,0 +1,33 @@
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\sushe\OneDrive\Рабочий стол\Уник\Основы операционных систем\Курсач\ClientApp\ClientApp\obj\Debug\ClientApp.Form2.resources
+F:\Курсач финал\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+F:\Курсач финал\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+F:\Курсач финал\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.Form2.resources
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+F:\Курсач финал\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+F:\Курсач финал\Client\ClientApp\bin\Debug\ClientApp.exe.config
+F:\Курсач финал\Client\ClientApp\bin\Debug\ClientApp.exe
+F:\Курсач финал\Client\ClientApp\bin\Debug\ClientApp.pdb
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.Form1.resources
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.Form2.resources
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.exe
+F:\Курсач финал\Client\ClientApp\obj\Debug\ClientApp.pdb
